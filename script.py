@@ -14,7 +14,7 @@ os.system("clear")
 #Função que mostra a tela
 def tela():
     lin()
-    print("||                                       fedora  MinimalistInstall                                         ||")
+    print("||                                       fedora  Minimalist_Install                                         ||")
     lin()
     print("|| Editores de texto      || Downloads/Navegadores   || Música/Players          || Monit/Janelas           ||")
     print("|| 1 - Vim                || 1 - Transmission        || 1 - Spotify             || 1 - Htop                ||")
