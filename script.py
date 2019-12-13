@@ -20,7 +20,7 @@ def tela():
     print("|| 1 - Vim                || 1 - Transmission        || 1 - Spotify             || 1 - Htop                ||")
     print("|| 2                      || 2 - Google Chrome       ||                         || 2 - Neofetch            ||")
     print("|| 3 - NeoVim             || 3 - Opera               ||                         || 3 - Conky               ||")
-    print("|| 4 - Emacs              || 4 - Toor                ||                         || 4 - i3                  ||")
+    print("|| 4 - Emacs              || 4 - Tor Browser         ||                         || 4 - i3                  ||")
     print("|| 5 - Nano               ||                         ||                         || 5 - Xfce                ||")
     print("|| 6 - Gedit              ||                         ||                         || 6 -                     ||")
     print("|| 7 - VisualCode         ||                         ||                         || 7 - Kde                 ||")
