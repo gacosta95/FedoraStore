@@ -15,11 +15,11 @@ def tela():
     print(table)
 
 
-print("Atualizando lista de pacotes e instalando dependencias, isso pode levar alguns minutos...")
+print("Atualizando lista de pacotes...")
 
 os.system("dnf update -y")
 os.system("clear")
-print("instalando pip e baixando biblioteca necessária!")
+print("instalando dependencias...")
 os.system("dnf install pip -y")
 os.system("pip install prettytable -y")
 os.system("clear")
