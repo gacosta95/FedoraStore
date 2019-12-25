@@ -4,5 +4,5 @@
 FedoraStore uses two python libraries, OS and prettytable.
 In order for the script to run, you need to install the prettytable library, command for installation below.
 
-sudo pip install prettytable
-sudo pip install pyfiglet
+<p>sudo pip install prettytable<p>
+<p>sudo pip install pyfiglet<p>
