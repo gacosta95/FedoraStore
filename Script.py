@@ -1,6 +1,11 @@
+import os
+os.system("pip install pyfiglet")
+os.system("pip install prettytable")
+
+
 import pyfiglet
 import prettytable
-import os
+
 
 print("Atualizando...")
 os.system("dnf update -y")
