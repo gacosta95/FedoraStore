@@ -2,9 +2,9 @@ import os
 os.system("pip install pyfiglet")
 os.system("pip install prettytable")
 
-
-import pyfiglet
 import prettytable
+import pyfiglet
+
 
 
 print("Atualizando...")
